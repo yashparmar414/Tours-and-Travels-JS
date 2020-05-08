@@ -32,7 +32,7 @@
 				}
 				else
 				{
-					alert('Sorry We do not provide srvice to your destination..!')
+					alert('Sorry We do not provide service to your destination..!')
 				}
 			}
 		}
